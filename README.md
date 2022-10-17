@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Laura. ML / Software Engineer 
+
+:star: Currently taking a sabbatical. 
+
+- 🔭 I’m working on completing *Artificial Intelligence Professional Program @ Stanford School of Engineering*. 
+- 🌱 I’m constantly learning and nowadays I'm focused towards learning state-of-the-art techniques in Natural Language Processing. 
+- :books: One of my hobbies and habits is reading a LOT :) 
 
 <!--
 **laurauzcategui/laurauzcategui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
