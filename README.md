@@ -3,7 +3,7 @@
 :star: Currently taking a sabbatical. 
 
 - 🔭 I’m working on completing *Artificial Intelligence Professional Program @ Stanford School of Engineering*. 
-- 🌱 I’m constantly learning and nowadays I'm focused towards learning state-of-the-art techniques in Natural Language Processing. 
+- 🌱 I’m constantly learning and nowadays I'm focused towards learning and building projects with state-of-the-art techniques in Natural Language Processing. 
 - :books: One of my hobbies and habits is reading a LOT :) 
 
 <!--
