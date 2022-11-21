@@ -3,8 +3,11 @@
 :star: Currently taking a sabbatical. 
 
 - 🔭 I’m working on completing *Artificial Intelligence Professional Program @ Stanford School of Engineering*. 
+  - 💬 Checkout my project on the Natural Language Understanding course: 
 - 🌱 I’m constantly learning and nowadays I'm focused towards learning and building projects with state-of-the-art techniques in Natural Language Processing. 
 - :books: One of my hobbies and habits is reading a LOT :) 
+
+- 📫 You can reach out to me: laura@uzcategui.dev
 
 <!--
 **laurauzcategui/laurauzcategui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
