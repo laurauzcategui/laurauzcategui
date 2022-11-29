@@ -1,4 +1,6 @@
-### Hi, I'm Laura. ML / Software Engineer 
+### Hi, I'm Laura.
+
+- 🌟 Focused towards building applications with state-of-the-art techniques in Natural Language Processing. 
 
 - 🔭 I just completed the *Artificial Intelligence Professional Program @ Stanford School of Engineering*. 
   - 💬 Checkout my project where I worked on [Building and evaluating end-to-end Medical OpenQA Systems with ColBERTv2](./project_cs224u/eval_medical_openqa_colbertv2.pdf)
@@ -10,9 +12,7 @@
   - XCS229: Machine Learning
   - XCS224U: Natural Language Understanding
   
-- 🌱 I’m constantly learning and nowadays I'm focused towards learning and building projects with state-of-the-art techniques in Natural Language Processing. 
-- :books: One of my hobbies and habits is reading a LOT :) checkout my [Goodreads page](https://www.goodreads.com/user/show/27341677-laura-uzcategui).
-
+- :books: Checkout my [Goodreads page](https://www.goodreads.com/user/show/27341677-laura-uzcategui). 
 
 <!--
 **laurauzcategui/laurauzcategui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
