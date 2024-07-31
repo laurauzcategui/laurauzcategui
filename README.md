@@ -1,10 +1,10 @@
 ### Hi, I'm Laura.
 
 - 🌟 Focused towards building applications with state-of-the-art techniques in Natural Language Processing.
-  Topics of Interest:
+  My topics of Interest:
   - Semantic Search and VectorDBs
-  - Large language models
-  - Building Agents with LLMs  
+  - Large language Models
+  - Building AI Agents with LLMs  
 
 - 🔭 Completed the *Artificial Intelligence Professional Program @ Stanford School of Engineering*. 
   - 💬 Checkout my paper where I worked on [Building and evaluating end-to-end Medical OpenQA Systems with ColBERTv2](http://dx.doi.org/10.13140/RG.2.2.32878.83520)
