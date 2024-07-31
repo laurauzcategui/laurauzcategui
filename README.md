@@ -1,7 +1,7 @@
 ### Hi, I'm Laura.
 
 - 🌟 Focused towards building applications with state-of-the-art techniques in Natural Language Processing.
-  Topic of Interest:
+  Topics of Interest:
   - Semantic Search and VectorDBs
   - Large language models
   - Building Agents with LLMs  
