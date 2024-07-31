@@ -7,7 +7,7 @@
   - Building Agents with LLMs  
 
 - 🔭 Completed the *Artificial Intelligence Professional Program @ Stanford School of Engineering*. 
-  - 💬 Checkout my project where I worked on [Building and evaluating end-to-end Medical OpenQA Systems with ColBERTv2](./project_cs224u/eval_medical_openqa_colbertv2.pdf)
+  - 💬 Checkout my project where I worked on [Building and evaluating end-to-end Medical OpenQA Systems with ColBERTv2](http://dx.doi.org/10.13140/RG.2.2.32878.83520)
   - Stanford [Certificate](https://digitalcredential.stanford.edu/check/DBC7D506CC210CD0042A7A2F879DD61C15576F14130EB500F0BA3885DB5399D0bXNWS1RMakpENnVGaDdjWmFDanpDL3J4MHdwaFZUSUxEeWJSejNCTkFIVHc1SmFK) of completion. 
   
   At the program I took the following courses from the Syllabus: 
